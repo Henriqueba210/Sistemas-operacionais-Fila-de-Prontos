@@ -324,5 +324,3 @@ int main() {
         goto gerenciador_menu;
     }
 }
-
-
